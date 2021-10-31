@@ -3,6 +3,8 @@ I made this as a quick and dirty decoration. I use a projector to project this p
 
 The program lets you add "decorations." Each decoration is a sprite. You can move and scale it. I use this to put torches on both sides of my front door, ghosts in the trees, and animated jack-o-lantern faces on pumpkins.
 
+Every time you make a change to the layout of decorations a **layout.dat** file is saved in the program directory.  When you open the program it'll load the layout.dat file if it is there.
+
 ![alt text](screenshot.png)
 
 | Game Button   | Keyboard Button   | Action                                        | SCALE MODE action                     | MOVE MODE action  | SELECT MODE action        |
