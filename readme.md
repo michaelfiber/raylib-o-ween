@@ -1,8 +1,9 @@
 # raylib-o-ween 
-I made this as a quick and dirty decoration for the front of my house. It was designed to run on a Raspberry Pi Zero with a JoyBonnet with the buttons mapped WASD for directions and UOJL for the 4 face buttons as well as Enter for the Start button.
+I made this as a quick and dirty decoration. I use a projector to project this program on the front of my house. It was designed to run on a Raspberry Pi Zero with a JoyBonnet with the joystick directions mapped to WASD and the YXBA buttons mapped to UOJL as well as Enter for the Start button.
+
+The program lets you add "decorations." Each decoration is a sprite. You can move and scale it. I use this to put torches on both sides of my front door, ghosts in the trees, and animated jack-o-lantern faces on pumpkins.
 
 ![alt text](screenshot.png)
-
 
 | Game Button   | Keyboard Button   | Action                                        | SCALE MODE action                     | MOVE MODE action  | SELECT MODE action        |
 | ---           | ---               | ---                                           | ---                                   | ---               | ---                       |
